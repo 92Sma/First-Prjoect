@@ -39,7 +39,7 @@
   </header>
 </nav>
 <p class="p">
-  hello sir/madam,<br>Below some price of product list given kindly check the list and if any small mistake has arrived kind inform us we will improve it.
+  hello sir/madam,<br>Below some price of product list given kindly check the list.
   
 </p>
 <table border="1">
@@ -67,7 +67,7 @@
 </table>
 <a class="a">
   Your faithfully<br>
-  Don't
+        Sma
   
 </a>
 </body>
